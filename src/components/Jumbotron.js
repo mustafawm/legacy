@@ -7,7 +7,7 @@ const Jumbotron = ({ title }) => (
     <p className="lead">{title}</p>
     <p>
       <a className="btn btn-lg btn-success" href="#/home">
-        Hello world
+        Hello there!
       </a>
     </p>
   </div>

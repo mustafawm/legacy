@@ -13,7 +13,7 @@ const Navigation = props => (
         <a href="#/contact">Contact</a>
       </li>
     </ul>
-    <h3 className="text-muted">legacy</h3>
+    <h3 className="text-muted">Legacy to ReactApp</h3>
   </div>
 );
 
