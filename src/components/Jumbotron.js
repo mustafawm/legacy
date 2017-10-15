@@ -4,12 +4,8 @@ import { string } from 'prop-types';
 const Jumbotron = ({ title }) => (
   <div className="jumbotron">
     <h1>Yo VanillaJS</h1>
+    <h5> Hello there!</h5>
     <p className="lead">{title}</p>
-    <p>
-      <a className="btn btn-lg btn-success" href="#/home">
-        Hello there!
-      </a>
-    </p>
   </div>
 );
 
