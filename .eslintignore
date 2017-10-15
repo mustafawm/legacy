@@ -1,0 +1,6 @@
+public/
+node_modules/
+scripts/
+app/bower_components/
+app/scripts
+tests/
